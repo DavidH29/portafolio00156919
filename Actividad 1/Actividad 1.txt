@@ -1,0 +1,3 @@
+A la funcion calculo se le envia un numero y la direccion de memoria de 2 variables contendran el doble y el triple del numero enviado, el numero es multiplicado por 2 y 3 y el resultado es enviado a la direccion de memoria enviadas respectivamente, por ultimo el resultado simplemente se muestra.
+
+La utilidad de los punteros es enviarlos a funciones, de esta forma se ahorra tiempo y espacio enviar como por ejemplo arreglos a una funcion
